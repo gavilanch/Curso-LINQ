@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EjemploEFCore": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\ASUS\\source\\repos\\EjemploEFCore\\EjemploEFCore"
+    }
+  }
+}
